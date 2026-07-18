@@ -71,7 +71,7 @@ The dashboard is split into 4 mini-dashboards, each toggleable via its own check
 
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Form Controls)
 
-## 👤 Author
+
 
 Pratik
 
