@@ -71,10 +71,3 @@ The dashboard is split into 4 mini-dashboards, each toggleable via its own check
 
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Form Controls)
 
-
-
-Pratik
-
----
-*Feel free to fork this repo and adapt the dashboard for your own sales/regional datasets.*
-
