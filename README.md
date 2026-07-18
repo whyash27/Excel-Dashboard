@@ -3,9 +3,10 @@ An interactive Excel dashboard that tracks the daily sales performance of 200 sa
 
 
 📊 Sales Executive Performance Dashboard (Excel)
-![Dashboard Preview]<a href="https://github.com/whyash27/Excel-Dashboard/blob/main/Screenshot%202026-07-18%20112910.png"></a>
+- Dashboard Preview <a href="https://github.com/whyash27/Excel-Dashboard/blob/main/Screenshot%202026-07-18%20112910.png">View dashboard</a>
+
 ## Dataset used
-- <a href="https://github.com/whyash27/Excel-Dashboard/blob/main/Sales_Report.xlsm"></a>
+- <a href="https://github.com/whyash27/Excel-Dashboard/blob/main/Sales_Report.xlsm">Dataset</a>
 
 ## 📁 Project Overview
 
